@@ -1,6 +1,6 @@
 ## Olá, meu nome é Lucca Haddad. 
 
-#### 💻 Full Stack Developer
+#### 💻 Front-end Developer
 
 
 <hr>
@@ -23,4 +23,12 @@
     <img align="center" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components Badge">
     <img align="center" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Badge">
     <img align="center" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge">
+</div>
+
+<hr>
+
+<div>
+<a href="https://github.com/LuccaHaddadSerejo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaHaddadSerejo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaHaddadSerejo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
