@@ -15,7 +15,7 @@
 
 <hr>
 
-<h3>:speech_balloon: Vamos conversar!</h3>:
+<h3>:speech_balloon: Vamos conversar!</h3>
 
 <a href="www.linkedin.com/in/lucca-haddad-serejo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
