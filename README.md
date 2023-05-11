@@ -34,8 +34,9 @@
 
 <h3>📚 Estou estudando:</h3>
 <div> 
-  <img width="40" height="40" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" />
-  <img width="40" height="40" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
+  <img width="40" height="40" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png" />
+  <img width="40" height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" />
+  <img width="40" height="40" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" />
 </div>
 
 <hr>
