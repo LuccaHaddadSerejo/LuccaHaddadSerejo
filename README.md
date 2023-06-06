@@ -1,6 +1,6 @@
 <h2> Olá, meu nome é Lucca Haddad Serejo, seja bem-vindo ao meu perfil!</h2>
 
-<h3>:man_technologist: Sou Desenvolvedor full-stack com conhecimentos em:</h3>
+<h3>:man_technologist: Sou Desenvolvedor fullstack com conhecimentos em:</h3>
 
 <h4>Front end: </h4>
 <div style="display: inline_block">
